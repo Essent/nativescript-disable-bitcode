@@ -1,5 +1,9 @@
 # NativeScript plugin to disable Bitcode
 
+[![npm version](https://img.shields.io/npm/v/nativescript-disable-bitcode.svg?style=flat-square)](https://www.npmjs.com/package/nativescript-disable-bitcode)
+[![Dependency Status](https://img.shields.io/david/essent/nativescript-disable-bitcode.svg?style=flat-square)](https://david-dm.org/essent/nativescript-urban-airship)
+[![devDependency Status](https://img.shields.io/david/dev/essent/nativescript-disable-bitcode.svg?style=flat-square)](https://david-dm.org/essent/nativescript-disable-bitcode#info=devDependencies)
+
 This is a plugin to disable iOS Bitcode when using CocoaPods.
 
 # Usage
